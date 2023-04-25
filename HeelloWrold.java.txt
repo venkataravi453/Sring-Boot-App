@@ -1,0 +1,4 @@
+public class MyHello{
+public static void man(String[] args{
+})
+}
